@@ -12,6 +12,8 @@ I designed these low-fi prototypes for the home page and events page. On the sid
 ### Home Page
 - The final home page includes two aspects from the low-fi: the image and information about Canberra Modern. 
 - I've added an upcoming events section rather than the social media outlets.
+- I've also included the colour blue into the home page which is located at the book now buttons when hovered. I decided to add that colour becuase it is part of the Canberra Modern logo colour palette. 
+- I added the ticket buttons to indicate it is to book or buy tickets to the event. 
 
 
 ### Event Page
@@ -26,6 +28,7 @@ I wanted the Canberra Modern page to look like this prototype as I was inspired 
 ### Canberra Modern 
 - The final and the low-fi is how I wanted it to be. 
 - But preferably would want the headings to be moving slowly and not too big, so it're more readable. 
+- I chose the colour red is becuase it is part of the colour palette of the logo but also because it is the colour to be alert and aware which briefly makes it curious for viewers to click on it. 
 
 ### Canberra Modern information page 
 ![Alt text](/assets/images/low-fi%20prototypes%202.png)
